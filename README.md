@@ -1,6 +1,6 @@
 # AI_Practicals
 
-# 🏡 Housing Price Prediction using Machine Learning
+# 🏡 Housing Price Prediction using Regression Machine Learning
 
 ## 📌 Project Overview
 This project applies *Regression Machine Learning techniques* to analyze and predict housing prices.  
